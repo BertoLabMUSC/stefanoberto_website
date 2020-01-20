@@ -19,7 +19,7 @@ interests:
 - Neuroimaging genomics
 - Evolutionary genomics
 - Neuropsychiatric disorders
-name: UT Southwestern Medical Center
+name: Stefano Berto
 organizations:
 - name: UT Southwestern Medical Center
   url: 'http://konopkalab.org/'

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Connor Douglas | Stefano Berto, PhD</title>
+    <link>/authors/connor-douglas/</link>
+      <atom:link href="/authors/connor-douglas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Connor Douglas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Connor Douglas</title>
+      <link>/authors/connor-douglas/</link>
+    </image>
+    
+    <item>
+      <title>The genomic underpinnings of oscillatory biomarkers supporting successful memory encoding in humans</title>
+      <link>/publication/smepaper/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/smepaper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerated evolution of oligodendrocytes in human brain.</title>
+      <link>/publication/pnas/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/pnas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cell-type specific epigenetic links to schizophrenia risk in brain.</title>
+      <link>/publication/genomebio/</link>
+      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/genomebio/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

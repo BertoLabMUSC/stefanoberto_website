@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Stefano Berto, PhD</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am currently a postdoctoral fellow at UT Southwestern Medical Center working under the supervision of Dr. Genevieve Konopka. Here, using next generation sequencing coupled with computational approaches, I have focused on understanding the gene regulatory mechanisms that contribute to neuropsychiatric and neurodevelopmental disorders and how these complex regulatory mechanisms have evolved on the human lineage at cell-type level. In addition to the neuro-evolutionary genomic project, I am interested on translational medicine working on the neuroimaging genomic field. Indeed, combining the techniques of gene expression profiling and advanced signal processing of brain oscillations recorded during mnemonic tasks and fMRI in resting state is an innovative way to link brain activity with molecular mechanisms. In the Kopopka lab, I integrated brain activity values with gene expression from multiple next-generation RNA-sequencing data. With this cross disciplinary and innovative plan, I uncovered novel gene signatures that may be important for brain pathophysiology.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ashwinikumar Kulkarni</title>
+      <link>/authors/ashwinikumar-kulkarni/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/ashwinikumar-kulkarni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bradley C. Lega</title>
+      <link>/authors/bradley-c.-lega/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/bradley-c.-lega/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carol A. Tamminga</title>
+      <link>/authors/carol-a.-tamminga/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/carol-a.-tamminga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Connor Douglas</title>
+      <link>/authors/connor-douglas/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/connor-douglas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emre Caglayan</title>
+      <link>/authors/emre-caglayan/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/emre-caglayan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fatma Ayhan</title>
+      <link>/authors/fatma-ayhan/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/fatma-ayhan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genevieve Konopka</title>
+      <link>/authors/genevieve-konopka/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/genevieve-konopka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Miles Fontenot</title>
+      <link>/authors/miles-fontenot/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/miles-fontenot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sarah Seger</title>
+      <link>/authors/sarah-seger/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/sarah-seger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Isabel Mendizabal</title>
+      <link>/authors/isabel-mendizabal/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/isabel-mendizabal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kazuya Toriumi</title>
+      <link>/authors/kazuya-toriumi/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/kazuya-toriumi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Noriyoshi Usui</title>
+      <link>/authors/noriyoshi-usui/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/noriyoshi-usui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paramita Chatterjee</title>
+      <link>/authors/paramita-chatterjee/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/paramita-chatterjee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Todd M Preuss</title>
+      <link>/authors/todd-m-preuss/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/todd-m-preuss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>V Yi Soojin</title>
+      <link>/authors/v-yi-soojin/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/v-yi-soojin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carol Tamminga</title>
+      <link>/authors/carol-tamminga/</link>
+      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/carol-tamminga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hyeonsoo Jeong</title>
+      <link>/authors/hyeonsoo-jeong/</link>
+      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/hyeonsoo-jeong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iksoo Huh</title>
+      <link>/authors/iksoo-huh/</link>
+      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/iksoo-huh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thomas Layman</title>
+      <link>/authors/thomas-layman/</link>
+      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/thomas-layman/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

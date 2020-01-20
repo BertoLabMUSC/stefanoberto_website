@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carol A. Tamminga | Stefano Berto, PhD</title>
+    <link>/StefanoBertoUTSW/website/authors/carol-a.-tamminga/</link>
+      <atom:link href="/StefanoBertoUTSW/website/authors/carol-a.-tamminga/index.xml" rel="self" type="application/rss+xml" />
+    <description>Carol A. Tamminga</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Carol A. Tamminga</title>
+      <link>/StefanoBertoUTSW/website/authors/carol-a.-tamminga/</link>
+    </image>
+    
+    <item>
+      <title>The genomic underpinnings of oscillatory biomarkers supporting successful memory encoding in humans</title>
+      <link>/StefanoBertoUTSW/website/publication/smepaper/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/StefanoBertoUTSW/website/publication/smepaper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerated evolution of oligodendrocytes in human brain.</title>
+      <link>/StefanoBertoUTSW/website/publication/pnas/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/StefanoBertoUTSW/website/publication/pnas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ashwinikumar Kulkarni | Stefano Berto, PhD</title>
+    <link>/StefanoBertoUTSW/website/authors/ashwinikumar-kulkarni/</link>
+      <atom:link href="/StefanoBertoUTSW/website/authors/ashwinikumar-kulkarni/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ashwinikumar Kulkarni</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Ashwinikumar Kulkarni</title>
+      <link>/StefanoBertoUTSW/website/authors/ashwinikumar-kulkarni/</link>
+    </image>
+    
+    <item>
+      <title>The genomic underpinnings of oscillatory biomarkers supporting successful memory encoding in humans</title>
+      <link>/StefanoBertoUTSW/website/publication/smepaper/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/StefanoBertoUTSW/website/publication/smepaper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
